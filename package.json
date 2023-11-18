@@ -1,0 +1,22 @@
+{
+  "name": "vicious",
+  "displayName": "Vicious",
+  "description": "A dark theme for Visual Studio Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "icon": "assets/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vicious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vicious-color-theme.json"
+      }
+    ]
+  }
+}
