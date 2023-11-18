@@ -14,10 +14,10 @@ Elevate your coding experience with Vicious, a sleek and immersive dark theme fo
 <br><br><br>
 <div  align="center">
 
-[![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=version&style=flat&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-theme-vscode/blob/main/CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=version&style=flat&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/CHANGELOG.md)
 [![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=releasedDate&style=flat&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-theme-vscode/releases/tag/1.0.0)
 [![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-theme-vscode/releases/tag/1.0.0)
-[![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=license&style=flat&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-theme-vscode/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-theme-vscode%2Fmaster%2Fpackage.json&query=license&style=flat&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/LICENSE)
 
 </div>
 <p align="center">
