@@ -56,8 +56,3 @@ The apps and tools that support the Vicious theme include:
 Contribute to the Vicious theme and make a difference! Your input is valuable in enhancing the Vicious theme for Visual Studio Code. Whether you have ideas, suggestions, or want to help with bug fixes, your contributions are welcome.
 
 Make your code shine in the Vicious theme!
-
-<!--
-npm i -g vsce
-vsce package
--->
