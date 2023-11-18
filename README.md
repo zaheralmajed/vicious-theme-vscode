@@ -8,7 +8,7 @@ Vicious Theme
 </h1>
 
 <h2 align="center">
- A Sleek and Immersive Dark Theme for <a href="http://code.visualstudio.com">Visual Studio Code</a>
+ A Sleek & Immersive Dark Theme for <a href="http://code.visualstudio.com">Visual Studio Code</a>
 </h2>
 Elevate your coding experience with Vicious, a sleek and immersive dark theme for <a href="http://code.visualstudio.com">Visual Studio Code</a>. Designed for minimalism, readability, and aesthetics, Vicious enhances your focus and reduces eye strain. Customize it to match your style and enjoy an elegant and efficient coding environment.
 <br><br><br>
