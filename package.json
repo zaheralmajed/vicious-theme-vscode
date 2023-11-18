@@ -1,14 +1,39 @@
 {
   "name": "vicious",
   "displayName": "Vicious",
+  "homepage": "https://zaher.design",
   "description": "A dark theme for Visual Studio Code",
   "version": "1.0.0",
+  "publisher": "ZaherAlMajed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaheralmajed/vicious-theme-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "zaher",
+    "vicious",
+    "vicious theme",
+    "color-theme"
+  ],
   "releasedDate": "2023-11-18",
   "license": "MIT",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "bugs": {
+    "url": "https://github.com/zaheralmajed/vicious-theme-vscode/issues"
+  },
+  "maintainers": [
+    "Zaher Al Majed"
+  ],
   "icon": "assets/logo.png",
+  "galleryBanner": {
+    "color": "#F1C981",
+    "theme": "dark"
+  },
   "categories": [
     "Themes"
   ],
