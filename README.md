@@ -30,13 +30,11 @@ Elevate your coding experience with Vicious, a sleek and immersive dark theme fo
 
 To install the Vicious theme for your desired application or tool, follow these general steps:
 
-- Install Visual Studio Code
-- Launch Visual Studio Code
-- Choose Extensions from menu
-- Search for **Vicious**
-- Click Install to install it
-- Click Reload to reload the Code
-- From the menu bar click: Code > Preferences > Color Theme > **Vicious**
+- Go to ```View -> Command Palette``` or press ```Ctrl+Shift+P```
+- Then enter ```Install Extensions```
+- Search for ```Vicious```
+- Click on Install
+- From the menu bar click: ```Code > Preferences > Color Theme > Vicious```
 
 # Contribute to Vicious theme
 
