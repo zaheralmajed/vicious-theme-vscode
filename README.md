@@ -34,7 +34,7 @@ To install the Vicious theme for your desired application or tool, follow these 
 - Then enter `Install Extensions`
 - Search for `Vicious`
 - Click on Install
-- From the menu bar click: `Code > Preferences > Color Theme > Vicious`
+- From the menu bar click: `Code -> Preferences -> Color Theme -> Vicious`
 
 # Contribute to Vicious theme
 
