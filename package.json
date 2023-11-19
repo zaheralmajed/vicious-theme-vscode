@@ -3,7 +3,7 @@
   "displayName": "Vicious",
   "homepage": "https://zaher.design",
   "description": "A dark theme for Visual Studio Code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ZaherAlMajed",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "vicious theme",
     "color-theme"
   ],
-  "releasedDate": "2023-11-18",
+  "releasedDate": "2023-11-19",
   "license": "MIT",
   "engines": {
     "vscode": "^1.84.0"
