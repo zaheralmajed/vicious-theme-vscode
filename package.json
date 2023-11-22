@@ -29,7 +29,7 @@
   "maintainers": [
     "Zaher Al Majed"
   ],
-  "icon": "https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/assets/logo.png",
+  "icon": "assets/logo.png",
   "galleryBanner": {
     "color": "#08090E",
     "theme": "dark"
