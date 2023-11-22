@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Logo.
+- Logo
 - README.md file
 
 ## [1.0.2] - 2023-11-19
