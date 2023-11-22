@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img width="120" height="120" src="https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/assets/logo.png" alt="Vicious Logo">
+<img width="120" height="120" src="https://raw.githubusercontent.com/zaheralmajed/vicious-theme-vscode/master/assets/logo.png" alt="Vicious Logo">
 </p>
 
 <h1 align="center">
@@ -21,7 +21,7 @@ Elevate your coding experience with Vicious, a sleek and immersive dark theme fo
 
 </div>
 <p align="center">
-<img  src="https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/assets/screenshot.png" alt="Vicious Screenshot">
+<img  src="https://raw.githubusercontent.com/zaheralmajed/vicious-theme-vscode/master/assets/screenshot.png" alt="Vicious Screenshot">
 </p>
 
 # Installation
@@ -48,7 +48,7 @@ If you enjoy my work and would like to show your appreciation, there are a few w
 Consider buying me a coffee to help keep this project alive and thriving. With enough support, I hope to become a full-time open-source developer, dedicating more time and effort to creating awesome themes and applications for everyone to enjoy.
 
 <p align="center">
-<a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://github.com/zaheralmajed/vicious-theme-vscode/blob/master/assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://raw.githubusercontent.com/zaheralmajed/vicious-theme-vscode/master/assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 Your support is immensely valued!<br>
 Thank you in advance for your love and support!
